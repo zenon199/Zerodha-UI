@@ -1,3 +1,3 @@
 # Web-Cloning
-# Web pages for Front3nd skill
+# Web pages for Front3nd skills
 # CSS Tailwind React
