@@ -1,3 +1,3 @@
 # Web-Cloning
-# Web pages for Front3nd skills
-# CSS Tailwind React
+ Exact Web cloning/copying for Front3nd skills
+ React Tailwind CSS
